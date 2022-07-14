@@ -1,4 +1,4 @@
-﻿namespace LengthHelper
+﻿namespace LengthHelperNamespace
 {
     public class LengthHelper
     {
