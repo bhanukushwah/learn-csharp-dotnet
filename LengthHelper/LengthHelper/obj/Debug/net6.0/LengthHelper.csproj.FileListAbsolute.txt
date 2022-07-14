@@ -1,0 +1,12 @@
+D:\learn\DOTNET\LengthHelper\LengthHelper\bin\Debug\net6.0\LengthHelper.deps.json
+D:\learn\DOTNET\LengthHelper\LengthHelper\bin\Debug\net6.0\LengthHelper.dll
+D:\learn\DOTNET\LengthHelper\LengthHelper\bin\Debug\net6.0\LengthHelper.pdb
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.csproj.AssemblyReference.cache
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.AssemblyInfoInputs.cache
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.AssemblyInfo.cs
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.csproj.CoreCompileInputs.cache
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.dll
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\refint\LengthHelper.dll
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\LengthHelper.pdb
+D:\learn\DOTNET\LengthHelper\LengthHelper\obj\Debug\net6.0\ref\LengthHelper.dll
