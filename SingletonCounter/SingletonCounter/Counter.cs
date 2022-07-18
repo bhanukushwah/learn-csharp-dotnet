@@ -8,7 +8,7 @@ namespace SingletonCounter
 
         private static Counter? _instance;
         public int count = 0;
-        public static Counter GetCounter()
+        public static Counter GetInstance()
         {
             if (_instance == null)
             {
@@ -18,11 +18,11 @@ namespace SingletonCounter
             return _instance;
         }
 
-        public void increment()
+        public void Increment()
         {
             count++;
         }
-        public void decrement()
+        public void Decrement()
         {
             count--;
         }

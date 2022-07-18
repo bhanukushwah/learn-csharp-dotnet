@@ -5,18 +5,18 @@ public class Program
 {
    public static void Main(string[] args)
     {
-        Counter counter = Counter.GetCounter();
-        Counter counter2 = Counter.GetCounter();
-        Counter counter3 = Counter.GetCounter();
+        Counter counter = Counter.GetInstance();
+        Counter counter2 = Counter.GetInstance();
+        Counter counter3 = Counter.GetInstance();
 
-        counter.increment();
-        counter.increment();
-        counter.increment();
+        counter.Increment();
+        counter.Increment();
+        counter.Increment();
 
-        counter2.increment();
-        counter2.increment();
+        counter2.Increment();
+        counter2.Increment();
 
-        counter3.increment();
+        counter3.Decrement();
 
         Console.WriteLine("counter: " + counter.count);
         Console.WriteLine("counter2: " + counter2.count);
