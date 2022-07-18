@@ -1,0 +1,15 @@
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\bin\Debug\net6.0\SingletonCounter.exe
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\bin\Debug\net6.0\SingletonCounter.deps.json
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\bin\Debug\net6.0\SingletonCounter.runtimeconfig.json
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\bin\Debug\net6.0\SingletonCounter.dll
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\bin\Debug\net6.0\SingletonCounter.pdb
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.csproj.AssemblyReference.cache
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.AssemblyInfoInputs.cache
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.AssemblyInfo.cs
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.csproj.CoreCompileInputs.cache
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.dll
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\refint\SingletonCounter.dll
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.pdb
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\SingletonCounter.genruntimeconfig.cache
+D:\learn\DOTNET\SingletonCounter\SingletonCounter\obj\Debug\net6.0\ref\SingletonCounter.dll
