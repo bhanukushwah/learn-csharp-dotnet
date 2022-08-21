@@ -1,0 +1,15 @@
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+D:\learn\DOTNET\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll
