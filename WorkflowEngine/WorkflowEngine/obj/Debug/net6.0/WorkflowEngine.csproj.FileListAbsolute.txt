@@ -1,0 +1,15 @@
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\bin\Debug\net6.0\WorkflowEngine.exe
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\bin\Debug\net6.0\WorkflowEngine.deps.json
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\bin\Debug\net6.0\WorkflowEngine.runtimeconfig.json
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\bin\Debug\net6.0\WorkflowEngine.dll
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\bin\Debug\net6.0\WorkflowEngine.pdb
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.csproj.AssemblyReference.cache
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.AssemblyInfoInputs.cache
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.AssemblyInfo.cs
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.csproj.CoreCompileInputs.cache
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.dll
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\refint\WorkflowEngine.dll
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.pdb
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\WorkflowEngine.genruntimeconfig.cache
+D:\learn\DOTNET\WorkflowEngine\WorkflowEngine\obj\Debug\net6.0\ref\WorkflowEngine.dll
