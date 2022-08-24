@@ -1,0 +1,15 @@
+D:\learn\DOTNET\Polymorphism\DbCommand\bin\Debug\net6.0\DbCommand.exe
+D:\learn\DOTNET\Polymorphism\DbCommand\bin\Debug\net6.0\DbCommand.deps.json
+D:\learn\DOTNET\Polymorphism\DbCommand\bin\Debug\net6.0\DbCommand.runtimeconfig.json
+D:\learn\DOTNET\Polymorphism\DbCommand\bin\Debug\net6.0\DbCommand.dll
+D:\learn\DOTNET\Polymorphism\DbCommand\bin\Debug\net6.0\DbCommand.pdb
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.csproj.AssemblyReference.cache
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.AssemblyInfoInputs.cache
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.AssemblyInfo.cs
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.csproj.CoreCompileInputs.cache
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.dll
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\refint\DbCommand.dll
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.pdb
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\DbCommand.genruntimeconfig.cache
+D:\learn\DOTNET\Polymorphism\DbCommand\obj\Debug\net6.0\ref\DbCommand.dll
